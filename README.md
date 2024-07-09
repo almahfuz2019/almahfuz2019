@@ -2,7 +2,7 @@
 I'm a passionate full-stack web developer with a strong foundation in both frontend and backend technologies. As an undergraduate student majoring in Computer Science and Engineering (CSE), I continuously enhance my skills by learning new technologies and best practices in software development. I enjoy creating beautiful, responsive web applications and am dedicated to improving my craft through ongoing learning and development.
 <br/>
 <br/>
-<img src="https://i.ibb.co/FxFxF3t/ojbabbre.png" alt="Mokkapps GitHub README header image">
+<img src="https://cdn.pixabay.com/photo/2015/11/16/16/41/web-1045994_1280.jpg" alt="Mokkapps GitHub README header image">
 <p><a href="#"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.facebook.com/profile.php?id=61556525311435"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <hr/>
  
